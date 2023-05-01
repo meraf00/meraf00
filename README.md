@@ -6,7 +6,7 @@
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/leul-wujira/) or [Email](mailto:merafwu@gmail.com)
 
 <details>
-<summary>Skills</summary>
+<summary>Languages and Tools</summary>
 <div style="margin: 1rem 0; display: flex; align-items: center">
 
 [![My Skills](https://skillicons.dev/icons?i=blender,unity,react,flask,nest,git,figma)](https://skillicons.dev)
